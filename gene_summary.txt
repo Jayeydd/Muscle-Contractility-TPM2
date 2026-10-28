@@ -1,4 +1,0 @@
-Gene symbol: TPM2
-NCBI Gene ID: 7169
-Official name: tropomyosin 2
-Chromosome: 9
